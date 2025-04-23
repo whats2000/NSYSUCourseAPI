@@ -5,13 +5,13 @@
 This repository has been moved to a new location:
 **[https://github.com/NSYSU-OpenDev/NSYSUCourseAPI](https://github.com/NSYSU-OpenDev/NSYSUCourseAPI)**
 
-## API Documentation
+## API Migration Guide
 
-The API documentation has also been relocated:
+The API endpoint has also been relocated:
 - Old URL: [https://whats2000.github.io/NSYSUCourseAPI/](https://whats2000.github.io/NSYSUCourseAPI/)
 - New URL: [https://nsysu-opendev.github.io/NSYSUCourseAPI/](https://nsysu-opendev.github.io/NSYSUCourseAPI/)
 
-Please update your bookmarks and references accordingly.
+Please update your code and references accordingly.
 
 ## Repository Status
 
